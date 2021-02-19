@@ -1,0 +1,4 @@
+n-: Num Lock;
+n+: n0;
+n0: Enter;
+Caps Lock: Esc;
